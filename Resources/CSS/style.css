@@ -1,4 +1,35 @@
 body {
     background-color: black;
     color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html {
+    font-size: 16px;
+}
+
+header h1 {
+    font-size: 3.125rem;
+}
+
+.download {
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+.yptg p {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 1.3125rem;
 }
