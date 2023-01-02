@@ -15,12 +15,12 @@ header {
 
 header h1 {
     font-size: 3.125rem;
-    padding: 30px;
+    padding: 1.875rem;
 }
 
 header p {
-    padding: 15px;
-    margin-bottom: 10px;
+    padding: 0.9375rem;
+    margin-bottom: 0.625rem;
 }
 
 .download {
@@ -34,26 +34,26 @@ h1 {
 }
 
 .yptg {
-    margin: 25px;
+    margin: 1.5625;
 }
 
 .yptg .text {
     font-size: 1.3125rem;
     color: gray;
-    padding-top: 35px;
+    padding-top: 2.1875rem;
 }
 
 .yptg img {
-    padding-top: 20px;
+    padding-top: 1.25rem;
 }
 
 footer {
     text-align: right;
     color: gray;
     font-size: 1.3125rem;
-    margin: 20px 85px;
+    margin: 1.25rem 5.3125rem;
 }
 
 .cs h1 {
-    padding: 40px;
+    padding: 2.5rem;
 }
